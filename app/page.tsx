@@ -238,7 +238,7 @@ export default function Home() {
               <h3 className="text-2xl font-bold animate-neon-pulse">Bikinin.ai</h3>
               <p className="text-gray-400">Solusi digital terdepan untuk bisnis Anda dengan teknologi AI</p>
               <div className="flex space-x-4">
-                <a href="#" className="text-gray-400 hover:text-neon-cyan transition-colors">
+              <a href="https://wa.me/628983064613" className="text-gray-400 hover:text-neon-cyan transition-colors">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     width="24"
@@ -250,10 +250,10 @@ export default function Home() {
                     strokeLinecap="round"
                     strokeLinejoin="round"
                   >
-                    <path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"></path>
+                    <path d="M18.36 5.64a9 9 0 1 0-12.73 12.73l-1.06 3.17 3.17-1.06a9 9 0 0 0 10.62-14.84zM12 3a9 9 0 0 1 6.36 15.36 9 9 0 0 1-12.73 0 9 9 0 0 1 0-12.73A9 9 0 0 1 12 3zm.28 4.9a4.5 4.5 0 0 0-3.9 6.75l-.3.53-.53-.3a.75.75 0 0 0-.75 1.3l1.06.6a.75.75 0 0 0 1.3-.75l-.6-1.06a4.5 4.5 0 0 0 3.83-6.07 4.5 4.5 0 0 0-1.01-.01zm2.47 7.28a.75.75 0 0 0-1.06-.06 3 3 0 0 1-4.24 0 .75.75 0 0 0-1.06 1.06 4.5 4.5 0 0 0 6.36 0 .75.75 0 0 0 .06-1zm-2.47-2.47a.75.75 0 0 0 0 1.06 1.5 1.5 0 0 1 0 2.12.75.75 0 0 0 1.06 1.06 3 3 0 0 0 0-4.24.75.75 0 0 0-1.06 0z"/>
                   </svg>
                 </a>
-                <a href="#" className="text-gray-400 hover:text-neon-pink transition-colors">
+                <a href="https://www.instagram.com/bikinin.ai/" className="text-gray-400 hover:text-neon-pink transition-colors">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     width="24"
@@ -270,7 +270,7 @@ export default function Home() {
                     <line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line>
                   </svg>
                 </a>
-                <a href="#" className="text-gray-400 hover:text-blue-neon transition-colors">
+                {/* <a href="#" className="text-gray-400 hover:text-blue-neon transition-colors">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     width="24"
@@ -284,8 +284,8 @@ export default function Home() {
                   >
                     <path d="M23 3a10.9 10.9 0 0 1-3.14 1.53 4.48 4.48 0 0 0-7.86 3v1A10.66 10.66 0 0 1 3 4s-4 9 5 13a11.64 11.64 0 0 1-7 2c9 5 20 0 20-11.5a4.5 4.5 0 0 0-.08-.83A7.72 7.72 0 0 0 23 3z"></path>
                   </svg>
-                </a>
-                <a href="#" className="text-gray-400 hover:text-purple-neon transition-colors">
+                </a> */}
+                {/* <a href="#" className="text-gray-400 hover:text-purple-neon transition-colors">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     width="24"
@@ -301,7 +301,7 @@ export default function Home() {
                     <rect x="2" y="9" width="4" height="12"></rect>
                     <circle cx="4" cy="4" r="2"></circle>
                   </svg>
-                </a>
+                </a> */}
               </div>
             </div>
             <div>
