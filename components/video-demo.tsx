@@ -39,7 +39,7 @@ const VideoDemo: React.FC = () => {
       title: "Customer Service 24 jam With AI",
       description: "Simulasi chatbot AI yang menangani pertanyaan pelanggan dengan respons yang natural dan akurat",
       thumbnail: "images/contentcreator.png",
-      duration: "2:58",
+      duration: "3:00",
       category: "AI Support",
     },
     {
